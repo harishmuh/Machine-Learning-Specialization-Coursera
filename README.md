@@ -7,7 +7,12 @@ This repository contains curated resources, notebooks, and exercise solutions fo
 ---
 
 ### Course 1: [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+---
 
 ### Course 2: [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+---
 
 ### Course 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+---
+
+If you find this repository helpful, please give a star. Thank you ^_^
