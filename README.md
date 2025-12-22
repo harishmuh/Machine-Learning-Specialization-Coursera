@@ -22,8 +22,8 @@ This repository contains curated resources, notebooks, and exercise solutions fo
 
 ### Course 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
-* [Week 1 - Unsupervised learning]()
-* [Week 2 - Recommender systems]()
-* [Week 3 - Reinforcement learning]()
+* [Week 1 - Unsupervised learning](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201)
+* [Week 2 - Recommender systems](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%202)
+* [Week 3 - Reinforcement learning](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%203)
 ---  
 If you find this repository helpful, please give a star. Thank you ^_^
