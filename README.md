@@ -21,9 +21,9 @@ This repository contains curated resources, notebooks, and exercise solutions fo
 ---
 
 ### Course 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
----
+
 * [Week 1 - Unsupervised learning]()
 * [Week 2 - Recommender systems]()
 * [Week 3 - Reinforcement learning]()
-  
+---  
 If you find this repository helpful, please give a star. Thank you ^_^
