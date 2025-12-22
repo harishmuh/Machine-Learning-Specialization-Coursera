@@ -14,10 +14,10 @@ This repository contains curated resources, notebooks, and exercise solutions fo
 ---
 
 ### Course 2: [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-* [Week 1 - Neural Networks]()
-* [Week 2 - Neural network training]()
-* [Week 3 - Advice for applying machine learning]()
-* [Week 4 - Decision trees]()
+* [Week 1 - Neural Networks](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%201)
+* [Week 2 - Neural network training](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%202)
+* [Week 3 - Advice for applying machine learning](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%203)
+* [Week 4 - Decision trees](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%204)
 ---
 
 ### Course 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
