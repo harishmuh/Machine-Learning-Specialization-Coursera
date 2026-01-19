@@ -1,4 +1,4 @@
-# Machine Learning Specialization from Coursera - 2026
+# Machine Learning Specialization from Stanford University & Deeplearning.ai (Coursera) - 2026
 
 <img width="856" height="181" alt="image" src="https://github.com/user-attachments/assets/e3b1d456-332a-41e9-90e4-d164d8e41868" />
 
