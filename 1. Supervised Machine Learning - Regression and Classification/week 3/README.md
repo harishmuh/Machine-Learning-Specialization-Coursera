@@ -1,1 +1,1 @@
-This folder contains optional labs from the course.
+This folder contains assignments and optional labs from the course.
