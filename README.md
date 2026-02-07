@@ -2,7 +2,7 @@
 
 <img width="856" height="181" alt="image" src="https://github.com/user-attachments/assets/e3b1d456-332a-41e9-90e4-d164d8e41868" />
 
-This repository contains curated resources, notebooks, and exercise solutions for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Prof. Andrew NG on Coursera.
+This repository contains curated resources, notebooks, and exercise solutions for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Prof. Andrew Ng on Coursera.
 
 ---
 
