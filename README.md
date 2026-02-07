@@ -35,7 +35,7 @@ This repository contains curated resources, notebooks, and exercise solutions fo
     -  [C1_W3_lab07 - Logistic Regression using Scikit-Learn](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
     -  [C1_W3_lab08 - Overfitting](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203/C1_W3_Lab08_Overfitting_Soln.ipynb)
     -  [C1_W3_lab09 - Regularized Cost and Gradient](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203/C1_W3_Lab09_Regularization_Soln.ipynb)
-    -  [C1_W3_assignment - Logistic Regression](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203/C1_W3_Logistic_Regression.ipynb)
+    -  [C1_W3_assignment - Logistic Regression](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203/assignment/C1_W3_Logistic_Regression.ipynb)
 
 
 ---
