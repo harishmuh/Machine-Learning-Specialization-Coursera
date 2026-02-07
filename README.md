@@ -53,7 +53,13 @@ This repository contains curated resources, notebooks, and exercise solutions fo
     
 * **Week 2 -** [**Neural network training**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%202)
 
-  * 
+  * [C2_W2_Back propagation using a computation graph](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%202/C2_W2_Backprop.ipynb)
+  * [C2_W2_Derivatives](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%202/C2_W2_Derivatives.ipynb)
+  * [C2_W2_Multi-class Classification - Tf](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%202/C2_W2_Multiclass_TF.ipynb)
+  * [C2_W2_ReLU activation](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%202/C2_W2_Relu.ipynb)
+  * [C2_W2_Softmax Function](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%202/C2_W2_SoftMax.ipynb)
+  * [C2_W2_assignment - Neural Networks for Handwritten Digit Recognition, Multiclass](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%202/C2_W2_Assignment.ipynb)
+    
 * **Week 3 -** [**Advice for applying machine learning**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%203)
 
   * 
