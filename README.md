@@ -8,13 +8,13 @@ This repository contains curated resources, notebooks, and exercise solutions fo
 
 ### Course 1: [Supervised Machine Learning: Regression and Classification](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification)
 
-* [**Week 1 - Introduction to machine learning**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%201)
+* **Week 1 -** [**Introduction to machine learning**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%201)
   - [C1_W1_lab01 - Brief Introduction to Python and Jupyter Notebooks](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%201/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
   - [C1_W1_lab02 - Model Representation](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%201/C1_W1_Lab02_Model_Representation_Soln.ipynb)
   - [C1_W1_lab03 - Cost Function](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%201/C1_W1_Lab03_Cost_function_Soln.ipynb)
   - [C1_W1_lab04 - Gradient Descent for Linear Regression](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%201/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
     
-* [**Week 2 - Regression with multiple input variables**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%202)
+* **Week 2 -** [**Regression with multiple input variables**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%202)
 
   -  [C1_W2_lab01 - Python, NumPy and Vectorization](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%202/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
   -  [C1_W2_lab02 - Multiple Variable Linear Regression](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%202/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
@@ -24,7 +24,7 @@ This repository contains curated resources, notebooks, and exercise solutions fo
   -  [C1_W2_lab06 - Linear Regression using Scikit-Learn](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%202/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb)
   -  [C1_W2_assignment - Practice Lab: Linear Regression](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%202/C1_W2_Linear_Regression%20-%20exam.ipynb)
     
-* [**Week 3 - Classification**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203)
+* **Week 3 -** [**Classification**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203)
     
     -  [C1_W3_lab01 - Classification](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203/C1_W3_Lab01_Classification_Soln.ipynb)
     -  [C1_W3_lab02 - Logistic Regression, sigmoid function](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/1.%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week%203/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
@@ -43,17 +43,34 @@ This repository contains curated resources, notebooks, and exercise solutions fo
 
 
 ### Course 2: [Advanced Learning Algorithms](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms)
-* [Week 1 - Neural Networks](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%201)
-* [Week 2 - Neural network training](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%202)
-* [Week 3 - Advice for applying machine learning](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%203)
-* [Week 4 - Decision trees](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%204)
+
+* **Week 1 -** [**Neural Networks**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%201)
+
+  * [C2_W1_lab01 - Neurons and Layers](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%201/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+  * [C2_W1_lab02 - Simple Neural Network - TensorFlow](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%201/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+  * [C2_W1_lab03 - Simple Neural Network - Numpy](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%201/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+  * [C2_W1_assignment - Neural Networks for Handwritten Digit Recognition, Binary](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/blob/main/2.%20Advanced%20Learning%20Algorithms/week%201/C2_W1_Assignment.ipynb)
+    
+* **Week 2 -** [**Neural network training**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%202)
+
+  * 
+* **Week 3 -** [**Advice for applying machine learning**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%203)
+
+  * 
+* **Week 4 -** [**Decision trees**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/2.%20Advanced%20Learning%20Algorithms/week%204)
 ---
 
 ### Course 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
 
-* [Week 1 - Unsupervised learning](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201)
-* [Week 2 - Recommender systems](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%202)
-* [Week 3 - Reinforcement learning](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%203)
+* **Week 1 -** [**Unsupervised learning**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201)
+
+  * 
+* **Week 2 -** [**Recommender systems**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%202)
+
+  *
+* **Week 3 -** [**Reinforcement learning**](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%203)
+
+  *
 ---  
 **Disclaimer**
 ---
